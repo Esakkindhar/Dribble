@@ -78,6 +78,7 @@ course-detail
 </html>
 ```
 courses
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
