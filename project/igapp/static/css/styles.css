@@ -1,0 +1,14 @@
+body {
+  background: #f8f9fa;
+}
+h2, h4 {
+  color: #003366;
+}
+.card {
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+footer {
+  position: relative;
+  bottom: 0;
+  width: 100%;
+}
